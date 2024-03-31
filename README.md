@@ -30,3 +30,6 @@
 
 - Upload HTML, CSS and any other assets (images, etc.) that make up your static website.
 - By accessing the URL you can demonstrate your static web site in the browser.
+
+- ![Website](https://github.com/NLavanya-31/AWS-static-webhosting-With-Terraform-/assets/155809688/ea4c54ae-09f1-4bdb-9bd5-65880afa024c)
+
